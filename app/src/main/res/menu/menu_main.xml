@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/info"
+        android:id="@+id/show_info"
+        android:icon="@drawable/ic_info_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/changelog"
+        android:id="@+id/show_changelog"
+        android:orderInCategory="1000"
+        app:showAsAction="never" />
+</menu>

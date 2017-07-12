@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A Big Smiley Face</string>
+    <string name="smiley_face">Smiley Face</string>
+    <string name="info">Info</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="about">This app was originally created by /u/imanomeletteAMA as a joke in a reddit thread.\nIt spawned into a wholesome app thanks to /u/colnan!</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelog_textview">V1: Initial release\nV2: Increased size of smiley face, added toast and icon\nV3: Increased resolution of smiley face, changed toast message.\nV4: Added info button\nV5: Added changelog\nV6: Fixed version numbers\nV7: Fixed changelog</string>
+</resources>
